@@ -1,4 +1,4 @@
-fHEAD
+HEAD
 Para ir a un capítulo utilizamos:
  
     $ git tag -l
